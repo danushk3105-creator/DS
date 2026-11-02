@@ -861,3 +861,117 @@ Student ARUN got maximum marks = 78 in Subject : 0
 Student ARUN got maximum marks = 98 in Subject : 1 
 Student ARUN got maximum marks = 67 in Subject : 2 
 ARUN obtained the total highest marks.
+
+==============content beyond the sylabus ===============
+------------------cbs-1------------------------------
+postfix evaluation: -4
+
+-------------------cbs-2--------------------------------
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the piece of data: 3
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the piece of data: 5
+1. Producer
+2. Consumer
+3. Display
+4. ExitEnter your choice: 3
+The data are
+3
+5
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 2
+The consumed data is=3
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 3
+The data are
+5
+1. Producer
+2. Consumer
+3. Display
+4. Exit
+Enter your choice: 4
+Exit
+
+---------Library management system--------
+
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 1
+Enter Book ID: 201
+Enter Book Title: Wings of Fire
+Enter Author: A.P.J. Abdul Kalam
+Book added successfully! ID: 201
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 1
+Enter Book ID: 202
+Enter Book Title: Let Us C
+Enter Author: Yashavant Kanetkar
+Book added successfully! ID: 202
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 2
+ID    Title            Author               Status     Member
+201   Wings of Fire    A.P.J. Abdul Kalam   Available  -
+202   Let Us C         Yashavant Kanetkar   Available  -
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 4
+Enter Book ID to issue: 201
+Enter Member Name: Karthik
+Book issued to Karthik successfully!
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 2
+ID    Title            Author               Status     Member
+201   Wings of Fire    A.P.J. Abdul Kalam   Issued     Karthik
+202   Let Us C         Yashavant Kanetkar   Available  -
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 3
+Enter Book ID to search: 201
+Found: Wings of Fire by A.P.J. Abdul Kalam (Issued)
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 4
+Enter Book ID to issue: 201
+Book is already issued to Karthik!
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 5
+Enter Book ID to return: 201
+Book returned successfully!
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 2
+ID    Title            Author               Status     Member
+201   Wings of Fire    A.P.J. Abdul Kalam   Available  -
+202   Let Us C         Yashavant Kanetkar   Available  -
+--- LIBRARY MANAGEMENT SYSTEM ---
+1.Add Book  2.Display  3.Search
+4.Issue Book  5.Return Book  6.Exit
+Enter your choice: 6
+Thank you!
